@@ -31,6 +31,10 @@ a list of deep learning model on financial data
 Gabboujc, Alexandros Iosifidisd (2018)
 - [ ] [Short‑term stock market price trend prediction using a comprehensive deep learning system (https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00333-6) - Jingyi Shen and M. Omair Shafiq(2020)
 * [Classification-based Financial Markets Prediction using Deep Neural Networks](https://arxiv.org/pdf/1603.08604) - Matthew Dixon, Diego Klabjan, Jin Hoon Bang (2016)
+- [ ] [CNN-LSTM Neural Network Model for Quantitative Strategy Analysis in Stock Markets](https://pkuzc.github.io/files/iconip_2017.pdf) - Shuanglong Liu, Chao Zhang, and Jinwen Ma(2017)
+- [ ][Using LSTM in Stock prediction and Quantitative Trading] (http://cs230.stanford.edu/projects_winter_2020/reports/32066186.pdf) - Zhichao Zou, Zihao Qu (2020)
+- [ ][Using Deep Learning to Detect Price Change Indications in Financial Markets](https://ieeexplore.ieee.org/document/8081663) - Avraam Tsantekidis; Nikolaos Passalis; Anastasios Tefas; Juho Kanniainen; Moncef Gabbouj; Alexandros Iosifidis(2017)
+- [ ][A Comparative Analysis of Forecasting Financial Time Series Using ARIMA, LSTM, and BiLSTM](https://arxiv.org/abs/1911.09512) - Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin (2019)
 * [Deep Learning for Limit Order Books](https://arxiv.org/pdf/1601.01987) - Justin Sirignano (2016)
 * [High-Frequency Trading Strategy Based on Deep Neural Networks](https://link.springer.com/chapter/10.1007%2F978-3-319-42297-8_40) - Andrés Arévalo, Jaime Niño, German Hernández, Javier Sandoval (2016)
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059) - Zhengyao Jiang, Dixing Xu, Jinjun Liang (2017)
@@ -58,6 +62,7 @@ Gabboujc, Alexandros Iosifidisd (2018)
 * [Deep Hierarchical Strategy Model for Multi-Source Driven Quantitative Investment](https://ieeexplore.ieee.org/abstract/document/8743385) - Chunming Tang, Wenyan Zhu, Xiang Yu (2019)
 * [Finding Efficient Stocks in BSE100: Implementation of Buffet Approach INTRODUCTION](https://www.researchgate.net/publication/340501895_Asian_Journal_of_Management_Finding_Efficient_Stocks_in_BSE100_Implementation_of_Buffet_Approach_INTRODUCTION) - Sherin Varghese, Sandeep Thakur, Medha Dhingra (2020)
 * [Deep Learning in Asset Pricing](https://arxiv.org/abs/1904.00745) - Luyang Chen, Markus Pelger, Jason Zhu (2020)
+
 
 ## Meta Analyses & Systematic Reviews
 * [Application of machine learning in stock trading: a review](http://dx.doi.org/10.14419/ijet.v7i2.33.15479) - Kok Sheng Tan, Rajasvaran Logeswaran (2018)
@@ -88,6 +93,13 @@ Gabboujc, Alexandros Iosifidisd (2018)
 * [Generative Adversarial Network for Market Hourly Discrimination](https://mpra.ub.uni-muenchen.de/id/eprint/99846) - Luca Grilli, Domenico Santoro (2020)
 
 ## High Frequency
+- [ ] [VLSTM: VERY LONG SHORT-TERM MEMORY NETWORKS FOR HIGH-FREQUENCY TRADING](https://arxiv.org/pdf/1809.01506.pdf) - Prakhar Ganesh, Puneet Rakheja (2020)
+- [ ][Predicting the Next Executions Using High-Frequency Data]() - Ko Sugiura, Teruo Nakatsuma, Kenichiro McAlinn (2015)
+- [ ][Quantitative Research in High Frequency Trading for Natural Gas Futures Market](https://link.springer.com/chapter/10.1007/978-3-319-26762-3_3) - Saulius Masteika, Mantas Vaitonis(2015)
+- [ ][Application of Machine Learning in High Frequency Trading of Stocks](https://www.ijser.org/researchpaper/Application-of-Machine-Learning-in-High-Frequency-Trading-of-Stocks.pdf)- Obi Bertrand Obi (2019)
+- [ ][A high‐frequency trade execution model for supervised learning](https://onlinelibrary.wiley.com/doi/full/10.1002/hf2.10016) - Matthew Dixon(2016)
+- [ ][Predicting High-Frequency Stock Market by Neural Networks](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/math-finance/Tu_Yuchen_01219050.pdf) - Yuchen Tu(2020)
+- [x][Tensor Representation in High-Frequency Financial Data for Price Change Prediction](https://arxiv.org/abs/1709.01268) - Dat Thanh Tran, Martin Magris, Juho Kanniainen, Moncef Gabbouj, Alexandros Iosifidis (2017)
 * [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) - Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón (2017)
 * [Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets](https://doi.org/10.1155/2018/4907423) - Xingyu Zhou, Zhisong Pan, Guyu Hu, Siqi Tang, Cheng Zhao (2018)
 * [Deep Neural Networks in High Frequency Trading](https://arxiv.org/pdf/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
