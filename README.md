@@ -29,10 +29,10 @@ a list of deep learning model on financial data
 # Papers
 - [ ] [Using Deep Learning for price prediction by exploiting stationary limit order book features](https://arxiv.org/pdf/1810.09965.pdf) - Avraam Tsantekidisa, Nikolaos Passalisa, Anastasios Tefasa, Juho Kanniainenb, Moncef
 Gabboujc, Alexandros Iosifidisd (2018)
-- [ ] [Short‑term stock market price trend prediction using a comprehensive deep learning system] (https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00333-6) - Jingyi Shen and M. Omair Shafiq(2020)
+- [ ] [Short‑term stock market price trend prediction using a comprehensive deep learning system](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00333-6) - Jingyi Shen and M. Omair Shafiq(2020)
 - [ ] [Classification-based Financial Markets Prediction using Deep Neural Networks](https://arxiv.org/pdf/1603.08604) - Matthew Dixon, Diego Klabjan, Jin Hoon Bang (2016)
 - [ ] [CNN-LSTM Neural Network Model for Quantitative Strategy Analysis in Stock Markets](https://pkuzc.github.io/files/iconip_2017.pdf) - Shuanglong Liu, Chao Zhang, and Jinwen Ma(2017)
-- [ ] [Using LSTM in Stock prediction and Quantitative Trading] (http://cs230.stanford.edu/projects_winter_2020/reports/32066186.pdf) - Zhichao Zou, Zihao Qu (2020)
+- [ ] [Using LSTM in Stock prediction and Quantitative Trading](http://cs230.stanford.edu/projects_winter_2020/reports/32066186.pdf) - Zhichao Zou, Zihao Qu (2020)
 - [ ] [Using Deep Learning to Detect Price Change Indications in Financial Markets](https://ieeexplore.ieee.org/document/8081663) - Avraam Tsantekidis; Nikolaos Passalis; Anastasios Tefas; Juho Kanniainen; Moncef Gabbouj; Alexandros Iosifidis(2017)
 - [ ] [A Comparative Analysis of Forecasting Financial Time Series Using ARIMA, LSTM, and BiLSTM](https://arxiv.org/abs/1911.09512) - Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin (2019)
 * [Deep Learning for Limit Order Books](https://arxiv.org/pdf/1601.01987) - Justin Sirignano (2016)
