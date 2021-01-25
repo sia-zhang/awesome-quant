@@ -26,6 +26,9 @@ a list of deep learning model on financial data
   * [Courses](#courses)
   * [Further Reading](#further-reading)
 
+# Pairs trading
+ * https://www.quantconnect.com/tutorials/strategy-library/intraday-dynamic-pairs-trading-using-correlation-and-cointegration-approach#Intraday-Dynamic-Pairs-Trading-using-Correlation-and-Cointegration-Approach-Algorithm
+
 # Papers
 - [ ] [Using Deep Learning for price prediction by exploiting stationary limit order book features](https://arxiv.org/pdf/1810.09965.pdf) - Avraam Tsantekidisa, Nikolaos Passalisa, Anastasios Tefasa, Juho Kanniainenb, Moncef Gabboujc, Alexandros Iosifidisd (2018)
 - [ ] [Short‑term stock market price trend prediction using a comprehensive deep learning system](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00333-6) - Jingyi Shen and M. Omair Shafiq(2020)
