@@ -3,7 +3,7 @@ a list of deep learning model on financial data
 
 # Contents
 - [Dataset](#datasets)
- * [limit order dataset](https://etsin.fairdata.fi/dataset/73eb48d7-4dbc-4a10-a52a-da745b47a649/data)
+ * [FI-2010 limit order dataset](https://etsin.fairdata.fi/dataset/73eb48d7-4dbc-4a10-a52a-da745b47a649/data)
 
 - [Papers](#papers)
   * [Meta Analyses & Systematic Reviews](#meta-analyses--systematic-reviews)
