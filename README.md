@@ -4,13 +4,14 @@ a list of deep learning model on financial data
 # Contents
 - [Dataset](#datasets)
   * [FI-2010 limit order dataset](https://etsin.fairdata.fi/dataset/73eb48d7-4dbc-4a10-a52a-da745b47a649/data)
-
-- [Papers](#papers)
-  * [Practical Implementation of the Kelly Criterion: Optimal Growth Rate, Number of Trades, and Rebalancing Frequency for Equity Portfolios](https://www.frontiersin.org/articles/10.3389/fams.2020.577050/full)
+  
+- [Blogs]
   * [The Kelly Criterion](https://medium.com/@nickyoder/the-kelly-criterion-cd986d037d87)
   * [Stock Market Predictions with LSTM in Python](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
   * [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
-
+  * [Understand LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  
+- [Papers](#papers)
   * [Meta Analyses & Systematic Reviews](#meta-analyses--systematic-reviews)
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory-lstms)
@@ -36,6 +37,9 @@ a list of deep learning model on financial data
 
 # Pairs trading
  * https://www.quantconnect.com/tutorials/strategy-library/intraday-dynamic-pairs-trading-using-correlation-and-cointegration-approach#Intraday-Dynamic-Pairs-Trading-using-Correlation-and-Cointegration-Approach-Algorithm
+ 
+# trading strategies
+ * [Practical Implementation of the Kelly Criterion: Optimal Growth Rate, Number of Trades, and Rebalancing Frequency for Equity Portfolios](https://www.frontiersin.org/articles/10.3389/fams.2020.577050/full)
 
 # Papers
 - [ ] [Using Deep Learning for price prediction by exploiting stationary limit order book features](https://arxiv.org/pdf/1810.09965.pdf) - Avraam Tsantekidisa, Nikolaos Passalisa, Anastasios Tefasa, Juho Kanniainenb, Moncef Gabboujc, Alexandros Iosifidisd (2018)
